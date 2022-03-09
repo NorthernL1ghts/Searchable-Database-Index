@@ -8,6 +8,6 @@ This program is a local file that can be loaded in a Chrome browser to search th
 4. Gender
 
 
-![status: online](https://img.shields.io/badge/status-dead-red) ![updated: 09/03/22](https://img.shields.io/badge/updated-3/10/20-yellow)
+![status: online](https://img.shields.io/badge/status-online-green) ![updated: 09/03/22](https://img.shields.io/badge/updated-09/03/22-yellow)
 
 <a href = "https://github.com/NorthernL1ghts/Searchable-Database-Index">Download the source code on my Github page.</a>
