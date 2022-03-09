@@ -3,7 +3,7 @@ Searchable index of Renaissance artworks
 
 ![status: dead](https://img.shields.io/badge/status-dead-red) ![updated: 09/03/22](https://img.shields.io/badge/updated-3/10/20-yellow)
 
-<a href = "http://micahlt.github.io/renart">Download the source code on my Github page.</a>
+<a href = "https://github.com/NorthernL1ghts/Searchable-Database-Index">Download the source code on my Github page.</a>
 
 # Personal Website Searchable Database Index
 This program is a local file that can be loaded in a Chrome browser to search the database index for personal information.
